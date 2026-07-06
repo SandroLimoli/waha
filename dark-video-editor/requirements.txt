@@ -1,0 +1,8 @@
+# Nenhuma dependência Python externa é necessária.
+#
+# O script usa apenas a biblioteca padrão do Python (3.8+) e chama o
+# FFmpeg/FFprobe diretamente via subprocess — a renderização inteira é
+# feita pelo FFmpeg, sem MoviePy.
+#
+# O único requisito de sistema é o FFmpeg instalado no PATH
+# (instruções de instalação no README.md).

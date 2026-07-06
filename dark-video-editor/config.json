@@ -1,0 +1,25 @@
+{
+  "resolucao": "1920x1080",
+  "fps": 30,
+  "legenda": {
+    "fonte": "Nunito",
+    "tamanho": 52,
+    "cor_texto": "#F2EDE3",
+    "cor_contorno": "#000000",
+    "espessura_contorno": 3,
+    "posicao_vertical": "inferior",
+    "margem_inferior": 80,
+    "max_caracteres_linha": 42
+  },
+  "trilha_volume_db": -18,
+  "transicao_imagens_s": 0.5,
+  "kenburns_zoom_max": 1.08,
+  "fade_inicio_s": 1.5,
+  "fade_fim_s": 1.5,
+  "vertical": {
+    "resolucao": "1080x1920",
+    "legenda_tamanho": 64,
+    "legenda_margem_inferior": 320,
+    "legenda_max_caracteres_linha": 26
+  }
+}
