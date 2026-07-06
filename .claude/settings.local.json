@@ -9,7 +9,9 @@
       "Bash(yarn test:unit:*)",
       "Bash(npx tsc:*)",
       "Bash(pre-commit run:*)",
-      "Bash(yarn test:*)"
+      "Bash(yarn test:*)",
+      "mcp__Claude_Code_Remote__add_repo",
+      "mcp__Claude_Code_Remote__register_repo_root"
     ]
   }
 }
